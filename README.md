@@ -30,9 +30,9 @@
 - [DSVendas](https://sergio-sds3.netlify.app/dashboard) <BR/><BR/>
 
 
-![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiorbotelho&show_icons=true&theme=dracula)
+![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiorbotelho&show_icons=true&theme=dracula&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorbotelho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiorbotelho&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

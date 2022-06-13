@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🔗 Alguns links de projetos de estudos.
+## 🔗 Alguns links de projetos de estudo.
 
 
 - [GAME - DINO](https://sergiorbotelho.github.io/game_dino_dio/)<BR/>

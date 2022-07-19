@@ -28,8 +28,8 @@
 - [PSFLIX](https://sergiorbotelho.github.io/psflix/) <BR/>
 - [Gerador de Senha](https://sergiorbotelho.github.io/Gerador-de-senha/) <BR/>
 - [DSMovie](https://sergio-dsmovie.netlify.app/) <BR/>
-- [DSVendas](https://sergio-sds3.netlify.app/dashboard) <BR/><BR/>
-
+- [DSVendas](https://sergio-sds3.netlify.app/dashboard) <BR/>
+- [DSMeta](https://dsmeta-sergiobotelho.netlify.app/) <BR/><BR/>
 
 ![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiorbotelho&show_icons=true&theme=dracula&locale=pt-br)
 

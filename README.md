@@ -32,6 +32,7 @@
 - [DSMeta](https://dsmeta-sergiobotelho.netlify.app/) <BR/>
 - [PRIMEFLIX](https://primeflix-sergiobotelho.netlify.app/) <BR/>
 - [VALIDATION-CARD](https://validation-card.vercel.app/) <BR/>
+- [GitHub User](https://github-user-iota.vercel.app/) <BR/>
 
 ![Sergio GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiorbotelho&show_icons=true&theme=dracula&locale=pt-br)
 

@@ -27,9 +27,6 @@
 - [GAME - DINO](https://sergiorbotelho.github.io/game_dino_dio/)<BR/>
 - [PSFLIX](https://sergiorbotelho.github.io/psflix/) <BR/>
 - [Gerador de Senha](https://sergiorbotelho.github.io/Gerador-de-senha/) <BR/>
-- [DSMovie](https://sergio-dsmovie.netlify.app/) <BR/>
-- [DSVendas](https://sergio-sds3.netlify.app/dashboard) <BR/>
-- [DSMeta](https://dsmeta-sergiobotelho.netlify.app/) <BR/>
 - [PRIMEFLIX](https://primeflix-sergiobotelho.netlify.app/) <BR/>
 - [VALIDATION-CARD](https://validation-card.vercel.app/) <BR/>
 - [GitHub User](https://github-user-iota.vercel.app/) <BR/>

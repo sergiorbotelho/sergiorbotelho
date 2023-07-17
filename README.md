@@ -31,7 +31,7 @@
 
 
 - [SISTEMA DE CHAMADO](https://sistema-chamado.vercel.app/)<BR/>
-- [GAME - DINO](https://sergiorbotelho.github.io/game_dino_dio/)<BR/>
+- [DevSteam](https://devsteam-azure.vercel.app/)<BR/>
 - [ENCURTADEVLINK](https://encurtalinkdev.vercel.app/)<BR/>
 - [PSFLIX](https://sergiorbotelho.github.io/psflix/) <BR/>
 - [Gerador de Senha](https://sergiorbotelho.github.io/Gerador-de-senha/) <BR/>
@@ -39,6 +39,7 @@
 - [VALIDATION-CARD](https://validation-card.vercel.app/) <BR/>
 - [GitHub User](https://github-user-iota.vercel.app/) <BR/>
 - [Lista-Tarefas](https://listatarefas-sergiobotelho.vercel.app/) <BR/>
+- [GAME - DINO](https://sergiorbotelho.github.io/game_dino_dio/)<BR/>
 - [DevLink](https://botelho-devlinks.netlify.app/) <BR/>
 - [Pokedex](https://sergiorbotelho.github.io/Pokedex-Dio/) <BR/>
 - [Tela - Login](https://sergiorbotelho.github.io/tela-login/) <BR/>

@@ -35,7 +35,6 @@
 - [ENCURTADEVLINK](https://encurtalinkdev.vercel.app/)<BR/>
 - [PSFLIX](https://sergiorbotelho.github.io/psflix/) <BR/>
 - [Gerador de Senha](https://sergiorbotelho.github.io/Gerador-de-senha/) <BR/>
-- [PRIMEFLIX](https://primeflix-sergiobotelho.netlify.app/) <BR/>
 - [VALIDATION-CARD](https://validation-card.vercel.app/) <BR/>
 - [GitHub User](https://github-user-iota.vercel.app/) <BR/>
 - [Lista-Tarefas](https://listatarefas-sergiobotelho.vercel.app/) <BR/>

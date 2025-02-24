@@ -52,6 +52,7 @@
 - [DevLink](https://botelho-devlinks.netlify.app/) <BR/>
 - [Pokedex](https://sergiorbotelho.github.io/Pokedex-Dio/) <BR/>
 - [Tela - Login](https://sergiorbotelho.github.io/tela-login/) <BR/>
+- [Landing Page - PetShop](https://lading-page-pet-shop.vercel.app/) <BR/>
 - [Landing Page - Dom Barbeshop](https://dom-barbershop.vercel.app/) <BR/>
 
 
